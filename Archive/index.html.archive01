@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = "UTF-8">
+	<title>Index</title>
+</head>
+<body>
+	<p>This is my first webpage <br>
+	How exciting</p>
+	<p>Using the em tag does <em>this</em></p>
+	<p>and the strong tag does <strong>this</strong>
+</body>
+</html>
